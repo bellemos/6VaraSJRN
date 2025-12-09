@@ -1,10 +1,8 @@
-Este repositório contém um site para o armazenamento do mapeamento dos processos de trabalho da Justiça Federal do Rio Grande do Norte (JFRN). O site é uma iniciativa destinada a apresentar os mapeamentos de processos relacionados às atividades da 6ª Vara da Justiça Federal do RN.
-
-Os mapeamentos foram elaborados utilizando o Bizagi Modeler, uma ferramenta especializada em modelagem de processos que segue as melhores práticas de BPMN (Business Process Model and Notation). O objetivo é proporcionar clareza, organização e acessibilidade, contribuindo para maior eficiência e transparência organizacional.
+Este repositório contém um site para o armazenamento do mapeamento dos processos de trabalho da Justiça Federal do Rio Grande do Norte (JFRN). O site é uma iniciativa destinada a apresentar os processos de trabalho modelados relacionados à 6ª Vara da Justiça Federal do RN.
 
 🌟 Funcionalidades
 
-Visualização de processos mapeados da 6ª Vara da Justiça Federal do RN.
+Visualização de processos de trabalho da 6ª Vara da Justiça Federal do RN.
 Navegação intuitiva e responsiva para facilitar o acesso às informações.
 Design claro e funcional para uma experiência do usuário eficiente.
 Atualizações contínuas para garantir a relevância das informações exibidas.
